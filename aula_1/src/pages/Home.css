@@ -1,0 +1,28 @@
+h1{
+    color: rgba(195, 195, 216, 0.884);
+
+}
+h3{
+   text-align: center;
+   color: rgb(0, 60, 255);
+   font-size: 35px;
+   
+   
+
+ 
+}
+h4{
+   color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 35px;
+}
+h5{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color: aqua;
+}
